@@ -5,7 +5,7 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
 
 ## Step-by-Step Project Completion
 
-### 1. Planning & Research (Day 1 - 2 hours)
+### 1. Planning & Research 
 - Explored Bootstrap 5 official documentation and examples
 - Analyzed various Bootstrap example pages including:
   - Album example for card layouts
@@ -14,13 +14,13 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
   - Forms example for contact page structure
 - Identified key components to use: navbars, cards, hero sections, forms, accordions, and footers
 
-### 2. Setup & Structure (Day 1 - 1 hour)
+### 2. Setup & Structure 
 - Set up basic HTML5 structure for all three pages
 - Integrated Bootstrap 5 via CDN (version 5.3.2)
 - Added Bootstrap Icons for visual enhancement
 - Created consistent navigation structure across all pages
 
-### 3. Home Page Development (Day 2 - 4 hours)
+### 3. Home Page Development 
 **Components Used:**
 - **Navbar**: Fixed-top dark navbar with brand logo and responsive toggle
 - **Hero Section**: Custom gradient background with call-to-action buttons
@@ -35,7 +35,7 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
 - Custom button styling with gradients
 - Icon integration using Bootstrap Icons
 
-### 4. About/Services Page Development (Day 3 - 4 hours)
+### 4. About/Services Page Development 
 **Components Used:**
 - **Process Timeline**: Custom step-by-step process visualization
 - **Service Cards**: Six detailed service cards with feature lists
@@ -48,7 +48,7 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
 - Used Bootstrap's grid system creatively for team member layout
 - Integrated multiple color schemes for different service categories
 
-### 5. Contact Page Development (Day 4 - 3 hours)
+### 5. Contact Page Development 
 **Components Used:**
 - **Contact Form**: Comprehensive form with validation
 - **Contact Information Card**: Gradient background info panel
@@ -62,13 +62,13 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
 - Interactive accordion for FAQ section
 - Custom styling for form focus states
 
-### 6. Responsive Design & Testing (Day 4 - 2 hours)
+### 6. Responsive Design & Testing 
 - Tested all pages across different screen sizes
 - Ensured proper mobile navigation functionality
 - Optimized card layouts for tablet and mobile views
 - Fixed any spacing and alignment issues
 
-### 7. Final Polish & Code Cleanup (Day 5 - 1 hour)
+### 7. Final Polish & Code Cleanup 
 - Cleaned up CSS and HTML code
 - Ensured consistent spacing using Bootstrap utility classes
 - Added proper semantic HTML structure
@@ -142,20 +142,7 @@ This project involved creating a modern, responsive website using Bootstrap 5 fr
 2. **Documentation**: Maintained clear code comments and structure
 3. **Testing Methodology**: Systematic approach to responsive testing
 
-## Time Breakdown
 
-| Task | Time Spent |
-|------|------------|
-| Planning & Research | 2 hours |
-| Setup & Structure | 1 hour |
-| Home Page Development | 4 hours |
-| About/Services Page | 4 hours |
-| Contact Page Development | 3 hours |
-| Responsive Testing | 2 hours |
-| Final Polish & Documentation | 1 hour |
-| **Total Project Time** | **17 hours** |
-
-**Completion Timeline**: 5 days (working 3-4 hours per day)
 
 ## Key Achievements
 
