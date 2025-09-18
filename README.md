@@ -1,4 +1,4 @@
-# Bootstrap 5 UI Exploration & Page Design - Project Reflection
+# Bootstrap 5 UI Exploration & Page Design 
 
 ## Project Overview
 This project involved creating a modern, responsive website using Bootstrap 5 framework, consisting of three main pages: Home, About/Services, and Contact. The goal was to explore Bootstrap 5 components, understand their structure, and create visually appealing pages through creative component remixing.
